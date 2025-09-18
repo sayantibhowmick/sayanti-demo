@@ -1,3 +1,4 @@
 # sayanti-demo
-This is my first Git Repository
-Author - Sayanti Bhomwick
+This is my first Git Repository.
+<br>
+Author - Sayanti Bhomwick.
