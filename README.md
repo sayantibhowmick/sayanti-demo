@@ -7,3 +7,4 @@ This has my details.
 I am a CSE(AI&ML) student.
 I want to be a data analyst.
 I am in 3rd Year.
+I am a university student.
